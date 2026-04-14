@@ -1,0 +1,19 @@
+:root {
+  --brand-primary: 18 184 134;
+  --brand-soft: 236 253 245;
+  --brand-dark: 15 23 42;
+  --brand-accent: 56 189 248;
+  --text-primary: 15 23 42;
+  --text-secondary: 100 116 139;
+  --surface-primary: 248 250 252;
+  --surface-card: 255 255 255;
+  --border-soft: 226 232 240;
+}
+
+html.dark {
+  --text-primary: 241 245 249;
+  --text-secondary: 148 163 184;
+  --surface-primary: 2 6 23;
+  --surface-card: 15 23 42;
+  --border-soft: 51 65 85;
+}
